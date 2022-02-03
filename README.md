@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="left">I'm Prateeek a 2nd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</h3>
+<h3 align="left">I'm Prateeek a 3nd year Computer Science Undergraduate from Maharaja Agrasen Institute Of Technology, Delhi. I'm a Tech Enthusiast, Front-end Web Developer and an Open Source Contributer. I love to explore and learn about new domains.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avyuktakalki&label=Profile%20views&color=0e75b6&style=flat" alt="avyuktakalki" /> </p>
 
